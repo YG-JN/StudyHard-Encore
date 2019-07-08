@@ -1,0 +1,13 @@
+--counter.sql
+
+--카운트 값 저장
+create table cnt
+(
+	cnt number
+);
+
+--접속 ip 저장
+create table addr
+(
+	addr varchar2(20)
+);

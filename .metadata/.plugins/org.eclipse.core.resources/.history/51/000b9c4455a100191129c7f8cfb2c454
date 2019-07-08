@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sqlMap PUBLIC "-//iBATIS.com//DTD SQL Map 2.0//EN" "http://www.ibatis.com/dtd/sql-map-2.dtd" >
+<sqlMap namespace="count">
+  <!-- counter.xml -->  
+  <!-- ip저장 -->
+  <insert id="insert" parameteClass="String">
+      insert into addr values (#value#)
+  </insert>
+  
+  <!-- 카운트값 변경 -->
+  <update id="update" >
+      update cnt set cnt=cnt_seq.nextval
+  </update>
+  
+  <!-- 저장된 ip조회 -->
+  <select id="select" parameterClass="String" resultClass="int">
+      select count(*) from addr
+      where addr=#value#
+  </select>
+
+</sqlMap>
+
+
+

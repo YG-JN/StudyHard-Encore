@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.0" 
+         xmlns="http://java.sun.com/xml/ns/javaee" 
+         xmlns:xml="http://www.w3.org/XML/1998/namespace" 
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+         xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
+              http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd ">
+  <!-- 서블릿 클래스 등록 -->
+  <servlet>
+    <servlet-name>my</servlet-name>
+    <servlet-class>com.encore.t0708.MyServlet</servlet-class>
+  </servlet>
+  
+  
+  <!-- (서블릿 클래스에 매핑될) 가상의 경로 설정 -->
+  <servlet-mapping>
+    <servlet-name>my</servlet-name>
+    <url-pattern>/gildong/my</url-pattern>
+    <!-- url-pattern엘리먼트 내의 맨 앞의 '/'는  (컨텍스트)루트를 의미!!
+                    예) /gildong
+          ===> http://localhost:8282/TomTest/gildong
+     -->
+  </servlet-mapping>         
+  
+  
+  <!-- 카운트 서블릿등록 -->
+  <servlet>
+     <servlet-name>cnt</servlet-name>
+     <servlet-class>com.encore.t0708.CountServlet</servlet-class>
+  </servlet>
+  
+  <!-- 카운트 서블릿에 매핑할 가상경로 정의 -->
+  <servlet-mapping>
+     <servlet-name>cnt</servlet-name>
+     <url-pattern>/cnt</url-pattern>
+  </servlet-mapping>
+  
+  <!-- 카운트 서블릿등록2 -->
+  <servlet>
+     <servlet-name>cnt2</servlet-name>
+     <servlet-class>com.encore.t0708.CountServlet2</servlet-class>
+  </servlet>
+  
+  <!-- 카운트 서블릿에 매핑할 가상경로 정의2 -->
+  <servlet-mapping>
+     <servlet-name>cnt2</servlet-name>
+     <url-pattern>/cnt2</url-pattern>
+  </servlet-mapping>
+  
+  
+</web-app>
+
+
+

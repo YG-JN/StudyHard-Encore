@@ -1,0 +1,1333 @@
+!SESSION 2019-07-08 09:38:21.075 -----------------------------------------------
+eclipse.buildId=4.11.0.I20190307-0500
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 2 0 2019-07-08 09:44:17.053
+!MESSAGE Warnings while parsing the images from the 'org.eclipse.ui.commandImages' extension point.
+!SUBENTRY 1 org.eclipse.ui 2 0 2019-07-08 09:44:17.053
+!MESSAGE Cannot bind to an undefined command: plug-in='com.genuitec.eclipse.theming.ui', id='com.genuitec.myeclipse.help.darktheme.commandid'
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-08 09:44:21.416
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2019-07-08 09:44:26.494
+!MESSAGE A DevStyle Theme is being activated on this workspace; preparing colors and configuration
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2019-07-08 09:44:26.559
+!MESSAGE DevStyle has archived current color configurations to alternate preferences - will be restored when switching out of the DevStyle Theme
+
+!ENTRY org.eclipse.jface.text 2 0 2019-07-08 09:44:59.752
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-07-08 09:45:12.890
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Playdata'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jface.text 2 0 2019-07-08 09:56:07.259
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2019-07-08 10:19:19.362
+!MESSAGE No repository found at https://www.eclipse.org/windowbuilder/download.php.
+!SESSION 2019-07-08 10:51:51.405 -----------------------------------------------
+eclipse.buildId=4.11.0.I20190307-0500
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-08 10:53:18.276
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.jface 2 0 2019-07-08 10:53:20.506
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-07-08 10:53:20.506
+!MESSAGE A conflict occurred for ALT+CTRL+T:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,Terminal Commands,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@56511eda,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(pl.szpinda.plugin.tomcat.commands.tomcatStartStop,Tomcat start,stop,
+		,
+		Category(pl.szpinda.plugin.tomcat.commands.category.key,Tomcat keys,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@303a484e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.jface.text 2 0 2019-07-08 10:53:23.534
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-07-08 10:53:31.935
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Playdata'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY net.sf.eclipse.tomcat 4 4 2019-07-08 11:03:51.847
+!MESSAGE Runtime classpath after adding projects: []
+
+
+!ENTRY net.sf.eclipse.tomcat 4 4 2019-07-08 11:03:58.206
+!MESSAGE Runtime classpath after adding projects: []
+
+
+!ENTRY net.sf.eclipse.tomcat 4 4 2019-07-08 11:04:02.608
+!MESSAGE Runtime classpath after adding projects: []
+
+
+!ENTRY net.sf.eclipse.tomcat 4 4 2019-07-08 11:04:07.454
+!MESSAGE Runtime classpath after adding projects: []
+
+
+!ENTRY net.sf.eclipse.tomcat 4 4 2019-07-08 11:04:12.525
+!MESSAGE Runtime classpath after adding projects: []
+
+
+!ENTRY net.sf.eclipse.tomcat 4 4 2019-07-08 11:04:12.698
+!MESSAGE Runtime classpath after adding projects: []
+
+
+!ENTRY net.sf.eclipse.tomcat 4 4 2019-07-08 11:04:18.756
+!MESSAGE Runtime classpath after adding projects: []
+
+
+!ENTRY org.eclipse.jface.text 2 0 2019-07-08 11:23:13.709
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.jface.text 2 0 2019-07-08 11:25:21.119
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY net.sf.eclipse.tomcat 4 4 2019-07-08 11:26:41.784
+!MESSAGE Runtime classpath after adding projects: []
+
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2019-07-08 11:52:18.605
+!MESSAGE No repository found at https://www.eclipse.org/windowbuilder/download.php.
+
+!ENTRY org.eclipse.jface.text 2 0 2019-07-08 12:42:58.224
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY net.sf.eclipse.tomcat 4 4 2019-07-08 12:48:24.942
+!MESSAGE Runtime classpath after adding projects: []
+
+
+!ENTRY org.eclipse.jface.text 2 0 2019-07-08 12:51:43.141
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY net.sf.eclipse.tomcat 4 4 2019-07-08 13:05:40.239
+!MESSAGE Runtime classpath after adding projects: []
+
+
+!ENTRY net.sf.eclipse.tomcat 4 4 2019-07-08 13:17:08.217
+!MESSAGE Runtime classpath after adding projects: []
+
+
+!ENTRY net.sf.eclipse.tomcat 4 4 2019-07-08 13:17:25.977
+!MESSAGE Runtime classpath after adding projects: []
+
+
+!ENTRY net.sf.eclipse.tomcat 4 4 2019-07-08 13:17:28.661
+!MESSAGE Runtime classpath after adding projects: []
+
+
+!ENTRY net.sf.eclipse.tomcat 4 4 2019-07-08 13:19:10.893
+!MESSAGE Runtime classpath after adding projects: []
+
+
+!ENTRY net.sf.eclipse.tomcat 4 4 2019-07-08 13:21:32.470
+!MESSAGE Runtime classpath after adding projects: []
+
+
+!ENTRY net.sf.eclipse.tomcat 4 4 2019-07-08 13:21:37.532
+!MESSAGE Runtime classpath after adding projects: []
+
+
+!ENTRY net.sf.eclipse.tomcat 4 4 2019-07-08 13:22:11.701
+!MESSAGE Runtime classpath after adding projects: []
+
+
+!ENTRY org.eclipse.jface.text 2 0 2019-07-08 14:58:33.154
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.jface.text 2 0 2019-07-08 14:58:57.848
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY net.sf.eclipse.tomcat 4 4 2019-07-08 15:20:28.628
+!MESSAGE Runtime classpath after adding projects: []
+
+
+!ENTRY net.sf.eclipse.tomcat 4 4 2019-07-08 15:24:07.881
+!MESSAGE Runtime classpath after adding projects: []
+
+
+!ENTRY org.eclipse.ui 2 2 2019-07-08 16:11:56.927
+!MESSAGE org.eclipse.ui.views.ContentOutline: Deprecated relationship "fast" should be converted to "stack".
+
+!ENTRY net.sf.eclipse.tomcat 4 4 2019-07-08 16:22:45.643
+!MESSAGE Runtime classpath after adding projects: []
+
+
+!ENTRY org.eclipse.datatools.connectivity 2 -1 2019-07-08 16:23:23.154
+!MESSAGE Error creating JDBC Connection connection to Oracle. (Error: IO 오류: The Network Adapter could not establish the connection)
+!STACK 0
+java.sql.SQLRecoverableException: IO 오류: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:419)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:536)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:228)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:521)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.createConnection(JDBCConnection.java:328)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.internalCreateConnection(DriverConnectionBase.java:105)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.open(DriverConnectionBase.java:54)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.open(JDBCConnection.java:96)
+	at org.eclipse.datatools.enablement.internal.oracle.JDBCOracleConnectionFactory.createConnection(JDBCOracleConnectionFactory.java:27)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryProvider.createConnection(ConnectionFactoryProvider.java:83)
+	at org.eclipse.datatools.connectivity.internal.ConnectionProfile.createConnection(ConnectionProfile.java:359)
+	at org.eclipse.datatools.connectivity.internal.ManagedConnection.createConnection(ManagedConnection.java:166)
+	at org.eclipse.datatools.connectivity.internal.CreateConnectionJob.run(CreateConnectionJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:375)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:678)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:238)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1054)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:308)
+	... 14 more
+Caused by: java.net.UnknownHostException: server
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:171)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:353)
+	... 19 more
+
+!ENTRY org.eclipse.datatools.connectivity 2 -1 2019-07-08 16:23:25.417
+!MESSAGE Error creating SQL Model Connection connection to Oracle. (Error: IO 오류: The Network Adapter could not establish the connection)
+!STACK 0
+java.sql.SQLRecoverableException: IO 오류: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:419)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:536)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:228)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:521)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.createConnection(JDBCConnection.java:328)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.internalCreateConnection(DriverConnectionBase.java:105)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.open(DriverConnectionBase.java:54)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.open(JDBCConnection.java:96)
+	at org.eclipse.datatools.enablement.internal.oracle.JDBCOracleConnectionFactory.createConnection(JDBCOracleConnectionFactory.java:27)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryProvider.createConnection(ConnectionFactoryProvider.java:83)
+	at org.eclipse.datatools.connectivity.internal.ConnectionProfile.createConnection(ConnectionProfile.java:359)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionInfoImpl.initializeJDBCConnection(ConnectionInfoImpl.java:705)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionInfoImpl.<init>(ConnectionInfoImpl.java:690)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionFactory.createConnection(ConnectionFactory.java:38)
+	at org.eclipse.datatools.connectivity.sqm.core.SQMConnectionFactory.createConnection(SQMConnectionFactory.java:45)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionFactory.createConnection(ConnectionFactory.java:59)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryAdapterProvider.createConnection(ConnectionFactoryAdapterProvider.java:114)
+	at org.eclipse.datatools.connectivity.internal.ManagedConnection.createConnection(ManagedConnection.java:163)
+	at org.eclipse.datatools.connectivity.internal.CreateConnectionJob.run(CreateConnectionJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:375)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:678)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:238)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1054)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:308)
+	... 20 more
+Caused by: java.net.UnknownHostException: server
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:929)
+	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1324)
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1277)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:171)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:353)
+	... 25 more
+
+!ENTRY org.eclipse.datatools.connectivity 4 -1 2019-07-08 16:23:25.463
+!MESSAGE Could not connect to Oracle.
+!SUBENTRY 1 org.eclipse.datatools.connectivity 2 -1 2019-07-08 16:23:25.463
+!MESSAGE Error creating SQL Model Connection connection to Oracle. (Error: IO 오류: The Network Adapter could not establish the connection)
+!STACK 0
+java.sql.SQLRecoverableException: IO 오류: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:419)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:536)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:228)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:521)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.createConnection(JDBCConnection.java:328)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.internalCreateConnection(DriverConnectionBase.java:105)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.open(DriverConnectionBase.java:54)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.open(JDBCConnection.java:96)
+	at org.eclipse.datatools.enablement.internal.oracle.JDBCOracleConnectionFactory.createConnection(JDBCOracleConnectionFactory.java:27)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryProvider.createConnection(ConnectionFactoryProvider.java:83)
+	at org.eclipse.datatools.connectivity.internal.ConnectionProfile.createConnection(ConnectionProfile.java:359)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionInfoImpl.initializeJDBCConnection(ConnectionInfoImpl.java:705)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionInfoImpl.<init>(ConnectionInfoImpl.java:690)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionFactory.createConnection(ConnectionFactory.java:38)
+	at org.eclipse.datatools.connectivity.sqm.core.SQMConnectionFactory.createConnection(SQMConnectionFactory.java:45)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionFactory.createConnection(ConnectionFactory.java:59)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryAdapterProvider.createConnection(ConnectionFactoryAdapterProvider.java:114)
+	at org.eclipse.datatools.connectivity.internal.ManagedConnection.createConnection(ManagedConnection.java:163)
+	at org.eclipse.datatools.connectivity.internal.CreateConnectionJob.run(CreateConnectionJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:375)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:678)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:238)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1054)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:308)
+	... 20 more
+Caused by: java.net.UnknownHostException: server
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:929)
+	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1324)
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1277)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:171)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:353)
+	... 25 more
+!SUBENTRY 1 org.eclipse.datatools.connectivity 2 -1 2019-07-08 16:23:25.463
+!MESSAGE Error creating JDBC Connection connection to Oracle. (Error: IO 오류: The Network Adapter could not establish the connection)
+!STACK 0
+java.sql.SQLRecoverableException: IO 오류: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:419)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:536)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:228)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:521)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.createConnection(JDBCConnection.java:328)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.internalCreateConnection(DriverConnectionBase.java:105)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.open(DriverConnectionBase.java:54)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.open(JDBCConnection.java:96)
+	at org.eclipse.datatools.enablement.internal.oracle.JDBCOracleConnectionFactory.createConnection(JDBCOracleConnectionFactory.java:27)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryProvider.createConnection(ConnectionFactoryProvider.java:83)
+	at org.eclipse.datatools.connectivity.internal.ConnectionProfile.createConnection(ConnectionProfile.java:359)
+	at org.eclipse.datatools.connectivity.internal.ManagedConnection.createConnection(ManagedConnection.java:166)
+	at org.eclipse.datatools.connectivity.internal.CreateConnectionJob.run(CreateConnectionJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:375)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:678)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:238)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1054)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:308)
+	... 14 more
+Caused by: java.net.UnknownHostException: server
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:171)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:353)
+	... 19 more
+
+!ENTRY org.eclipse.datatools.connectivity 2 -1 2019-07-08 16:23:30.155
+!MESSAGE Error creating JDBC Connection connection to Oracle. (Error: IO 오류: The Network Adapter could not establish the connection)
+!STACK 0
+java.sql.SQLRecoverableException: IO 오류: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:419)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:536)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:228)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:521)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.createConnection(JDBCConnection.java:328)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.internalCreateConnection(DriverConnectionBase.java:105)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.open(DriverConnectionBase.java:54)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.open(JDBCConnection.java:96)
+	at org.eclipse.datatools.enablement.internal.oracle.JDBCOracleConnectionFactory.createConnection(JDBCOracleConnectionFactory.java:27)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryProvider.createConnection(ConnectionFactoryProvider.java:83)
+	at org.eclipse.datatools.connectivity.internal.ConnectionProfile.createConnection(ConnectionProfile.java:359)
+	at org.eclipse.datatools.connectivity.internal.ManagedConnection.createConnection(ManagedConnection.java:166)
+	at org.eclipse.datatools.connectivity.internal.CreateConnectionJob.run(CreateConnectionJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:375)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:678)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:238)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1054)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:308)
+	... 14 more
+Caused by: java.net.UnknownHostException: server
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:171)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:353)
+	... 19 more
+
+!ENTRY org.eclipse.datatools.connectivity 2 -1 2019-07-08 16:23:30.165
+!MESSAGE Error creating SQL Model Connection connection to Oracle. (Error: IO 오류: The Network Adapter could not establish the connection)
+!STACK 0
+java.sql.SQLRecoverableException: IO 오류: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:419)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:536)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:228)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:521)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.createConnection(JDBCConnection.java:328)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.internalCreateConnection(DriverConnectionBase.java:105)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.open(DriverConnectionBase.java:54)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.open(JDBCConnection.java:96)
+	at org.eclipse.datatools.enablement.internal.oracle.JDBCOracleConnectionFactory.createConnection(JDBCOracleConnectionFactory.java:27)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryProvider.createConnection(ConnectionFactoryProvider.java:83)
+	at org.eclipse.datatools.connectivity.internal.ConnectionProfile.createConnection(ConnectionProfile.java:359)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionInfoImpl.initializeJDBCConnection(ConnectionInfoImpl.java:705)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionInfoImpl.<init>(ConnectionInfoImpl.java:690)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionFactory.createConnection(ConnectionFactory.java:38)
+	at org.eclipse.datatools.connectivity.sqm.core.SQMConnectionFactory.createConnection(SQMConnectionFactory.java:45)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionFactory.createConnection(ConnectionFactory.java:59)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryAdapterProvider.createConnection(ConnectionFactoryAdapterProvider.java:114)
+	at org.eclipse.datatools.connectivity.internal.ManagedConnection.createConnection(ManagedConnection.java:163)
+	at org.eclipse.datatools.connectivity.internal.CreateConnectionJob.run(CreateConnectionJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:375)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:678)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:238)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1054)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:308)
+	... 20 more
+Caused by: java.net.UnknownHostException: server
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:171)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:353)
+	... 25 more
+
+!ENTRY org.eclipse.datatools.connectivity 4 -1 2019-07-08 16:23:30.374
+!MESSAGE Could not connect to Oracle.
+!SUBENTRY 1 org.eclipse.datatools.connectivity 2 -1 2019-07-08 16:23:30.374
+!MESSAGE Error creating SQL Model Connection connection to Oracle. (Error: IO 오류: The Network Adapter could not establish the connection)
+!STACK 0
+java.sql.SQLRecoverableException: IO 오류: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:419)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:536)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:228)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:521)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.createConnection(JDBCConnection.java:328)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.internalCreateConnection(DriverConnectionBase.java:105)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.open(DriverConnectionBase.java:54)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.open(JDBCConnection.java:96)
+	at org.eclipse.datatools.enablement.internal.oracle.JDBCOracleConnectionFactory.createConnection(JDBCOracleConnectionFactory.java:27)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryProvider.createConnection(ConnectionFactoryProvider.java:83)
+	at org.eclipse.datatools.connectivity.internal.ConnectionProfile.createConnection(ConnectionProfile.java:359)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionInfoImpl.initializeJDBCConnection(ConnectionInfoImpl.java:705)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionInfoImpl.<init>(ConnectionInfoImpl.java:690)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionFactory.createConnection(ConnectionFactory.java:38)
+	at org.eclipse.datatools.connectivity.sqm.core.SQMConnectionFactory.createConnection(SQMConnectionFactory.java:45)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionFactory.createConnection(ConnectionFactory.java:59)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryAdapterProvider.createConnection(ConnectionFactoryAdapterProvider.java:114)
+	at org.eclipse.datatools.connectivity.internal.ManagedConnection.createConnection(ManagedConnection.java:163)
+	at org.eclipse.datatools.connectivity.internal.CreateConnectionJob.run(CreateConnectionJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:375)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:678)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:238)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1054)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:308)
+	... 20 more
+Caused by: java.net.UnknownHostException: server
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:171)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:353)
+	... 25 more
+!SUBENTRY 1 org.eclipse.datatools.connectivity 2 -1 2019-07-08 16:23:30.375
+!MESSAGE Error creating JDBC Connection connection to Oracle. (Error: IO 오류: The Network Adapter could not establish the connection)
+!STACK 0
+java.sql.SQLRecoverableException: IO 오류: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:419)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:536)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:228)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:521)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.createConnection(JDBCConnection.java:328)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.internalCreateConnection(DriverConnectionBase.java:105)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.open(DriverConnectionBase.java:54)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.open(JDBCConnection.java:96)
+	at org.eclipse.datatools.enablement.internal.oracle.JDBCOracleConnectionFactory.createConnection(JDBCOracleConnectionFactory.java:27)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryProvider.createConnection(ConnectionFactoryProvider.java:83)
+	at org.eclipse.datatools.connectivity.internal.ConnectionProfile.createConnection(ConnectionProfile.java:359)
+	at org.eclipse.datatools.connectivity.internal.ManagedConnection.createConnection(ManagedConnection.java:166)
+	at org.eclipse.datatools.connectivity.internal.CreateConnectionJob.run(CreateConnectionJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:375)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:678)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:238)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1054)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:308)
+	... 14 more
+Caused by: java.net.UnknownHostException: server
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:171)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:353)
+	... 19 more
+
+!ENTRY org.eclipse.datatools.connectivity 2 -1 2019-07-08 16:23:41.731
+!MESSAGE Error creating JDBC Connection connection to Oracle. (Error: IO 오류: The Network Adapter could not establish the connection)
+!STACK 0
+java.sql.SQLRecoverableException: IO 오류: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:419)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:536)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:228)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:521)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.createConnection(JDBCConnection.java:328)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.internalCreateConnection(DriverConnectionBase.java:105)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.open(DriverConnectionBase.java:54)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.open(JDBCConnection.java:96)
+	at org.eclipse.datatools.enablement.internal.oracle.JDBCOracleConnectionFactory.createConnection(JDBCOracleConnectionFactory.java:27)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryProvider.createConnection(ConnectionFactoryProvider.java:83)
+	at org.eclipse.datatools.connectivity.internal.ConnectionProfile.createConnection(ConnectionProfile.java:359)
+	at org.eclipse.datatools.connectivity.internal.ManagedConnection.createConnection(ManagedConnection.java:166)
+	at org.eclipse.datatools.connectivity.internal.CreateConnectionJob.run(CreateConnectionJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:375)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:678)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:238)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1054)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:308)
+	... 14 more
+Caused by: java.net.UnknownHostException: server
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:171)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:353)
+	... 19 more
+
+!ENTRY org.eclipse.datatools.connectivity 2 -1 2019-07-08 16:23:43.988
+!MESSAGE Error creating SQL Model Connection connection to Oracle. (Error: IO 오류: The Network Adapter could not establish the connection)
+!STACK 0
+java.sql.SQLRecoverableException: IO 오류: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:419)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:536)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:228)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:521)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.createConnection(JDBCConnection.java:328)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.internalCreateConnection(DriverConnectionBase.java:105)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.open(DriverConnectionBase.java:54)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.open(JDBCConnection.java:96)
+	at org.eclipse.datatools.enablement.internal.oracle.JDBCOracleConnectionFactory.createConnection(JDBCOracleConnectionFactory.java:27)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryProvider.createConnection(ConnectionFactoryProvider.java:83)
+	at org.eclipse.datatools.connectivity.internal.ConnectionProfile.createConnection(ConnectionProfile.java:359)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionInfoImpl.initializeJDBCConnection(ConnectionInfoImpl.java:705)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionInfoImpl.<init>(ConnectionInfoImpl.java:690)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionFactory.createConnection(ConnectionFactory.java:38)
+	at org.eclipse.datatools.connectivity.sqm.core.SQMConnectionFactory.createConnection(SQMConnectionFactory.java:45)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionFactory.createConnection(ConnectionFactory.java:59)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryAdapterProvider.createConnection(ConnectionFactoryAdapterProvider.java:114)
+	at org.eclipse.datatools.connectivity.internal.ManagedConnection.createConnection(ManagedConnection.java:163)
+	at org.eclipse.datatools.connectivity.internal.CreateConnectionJob.run(CreateConnectionJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:375)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:678)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:238)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1054)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:308)
+	... 20 more
+Caused by: java.net.UnknownHostException: server
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:929)
+	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1324)
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1277)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:171)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:353)
+	... 25 more
+
+!ENTRY org.eclipse.datatools.connectivity 4 -1 2019-07-08 16:23:44.010
+!MESSAGE Could not connect to Oracle.
+!SUBENTRY 1 org.eclipse.datatools.connectivity 2 -1 2019-07-08 16:23:44.010
+!MESSAGE Error creating SQL Model Connection connection to Oracle. (Error: IO 오류: The Network Adapter could not establish the connection)
+!STACK 0
+java.sql.SQLRecoverableException: IO 오류: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:419)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:536)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:228)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:521)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.createConnection(JDBCConnection.java:328)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.internalCreateConnection(DriverConnectionBase.java:105)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.open(DriverConnectionBase.java:54)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.open(JDBCConnection.java:96)
+	at org.eclipse.datatools.enablement.internal.oracle.JDBCOracleConnectionFactory.createConnection(JDBCOracleConnectionFactory.java:27)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryProvider.createConnection(ConnectionFactoryProvider.java:83)
+	at org.eclipse.datatools.connectivity.internal.ConnectionProfile.createConnection(ConnectionProfile.java:359)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionInfoImpl.initializeJDBCConnection(ConnectionInfoImpl.java:705)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionInfoImpl.<init>(ConnectionInfoImpl.java:690)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionFactory.createConnection(ConnectionFactory.java:38)
+	at org.eclipse.datatools.connectivity.sqm.core.SQMConnectionFactory.createConnection(SQMConnectionFactory.java:45)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionFactory.createConnection(ConnectionFactory.java:59)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryAdapterProvider.createConnection(ConnectionFactoryAdapterProvider.java:114)
+	at org.eclipse.datatools.connectivity.internal.ManagedConnection.createConnection(ManagedConnection.java:163)
+	at org.eclipse.datatools.connectivity.internal.CreateConnectionJob.run(CreateConnectionJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:375)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:678)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:238)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1054)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:308)
+	... 20 more
+Caused by: java.net.UnknownHostException: server
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:929)
+	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1324)
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1277)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:171)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:353)
+	... 25 more
+!SUBENTRY 1 org.eclipse.datatools.connectivity 2 -1 2019-07-08 16:23:44.011
+!MESSAGE Error creating JDBC Connection connection to Oracle. (Error: IO 오류: The Network Adapter could not establish the connection)
+!STACK 0
+java.sql.SQLRecoverableException: IO 오류: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:419)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:536)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:228)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:521)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.createConnection(JDBCConnection.java:328)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.internalCreateConnection(DriverConnectionBase.java:105)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.open(DriverConnectionBase.java:54)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.open(JDBCConnection.java:96)
+	at org.eclipse.datatools.enablement.internal.oracle.JDBCOracleConnectionFactory.createConnection(JDBCOracleConnectionFactory.java:27)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryProvider.createConnection(ConnectionFactoryProvider.java:83)
+	at org.eclipse.datatools.connectivity.internal.ConnectionProfile.createConnection(ConnectionProfile.java:359)
+	at org.eclipse.datatools.connectivity.internal.ManagedConnection.createConnection(ManagedConnection.java:166)
+	at org.eclipse.datatools.connectivity.internal.CreateConnectionJob.run(CreateConnectionJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:375)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:678)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:238)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1054)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:308)
+	... 14 more
+Caused by: java.net.UnknownHostException: server
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:171)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:353)
+	... 19 more
+
+!ENTRY org.eclipse.datatools.connectivity 2 -1 2019-07-08 16:27:10.950
+!MESSAGE Error creating JDBC Connection connection to Oracle Thin. (Error: IO 오류: The Network Adapter could not establish the connection)
+!STACK 0
+java.sql.SQLRecoverableException: IO 오류: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:419)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:536)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:228)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:521)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.createConnection(JDBCConnection.java:328)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.internalCreateConnection(DriverConnectionBase.java:105)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.open(DriverConnectionBase.java:54)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.open(JDBCConnection.java:96)
+	at org.eclipse.datatools.enablement.internal.oracle.JDBCOracleConnectionFactory.createConnection(JDBCOracleConnectionFactory.java:27)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryProvider.createConnection(ConnectionFactoryProvider.java:83)
+	at org.eclipse.datatools.connectivity.internal.ConnectionProfile.createConnection(ConnectionProfile.java:359)
+	at org.eclipse.datatools.connectivity.internal.ManagedConnection.createConnection(ManagedConnection.java:166)
+	at org.eclipse.datatools.connectivity.internal.CreateConnectionJob.run(CreateConnectionJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:375)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:678)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:238)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1054)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:308)
+	... 14 more
+Caused by: java.net.UnknownHostException: server
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:929)
+	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1324)
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1277)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:171)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:353)
+	... 19 more
+
+!ENTRY org.eclipse.datatools.connectivity 2 -1 2019-07-08 16:27:13.207
+!MESSAGE Error creating SQL Model Connection connection to Oracle Thin. (Error: IO 오류: The Network Adapter could not establish the connection)
+!STACK 0
+java.sql.SQLRecoverableException: IO 오류: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:419)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:536)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:228)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:521)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.createConnection(JDBCConnection.java:328)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.internalCreateConnection(DriverConnectionBase.java:105)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.open(DriverConnectionBase.java:54)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.open(JDBCConnection.java:96)
+	at org.eclipse.datatools.enablement.internal.oracle.JDBCOracleConnectionFactory.createConnection(JDBCOracleConnectionFactory.java:27)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryProvider.createConnection(ConnectionFactoryProvider.java:83)
+	at org.eclipse.datatools.connectivity.internal.ConnectionProfile.createConnection(ConnectionProfile.java:359)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionInfoImpl.initializeJDBCConnection(ConnectionInfoImpl.java:705)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionInfoImpl.<init>(ConnectionInfoImpl.java:690)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionFactory.createConnection(ConnectionFactory.java:38)
+	at org.eclipse.datatools.connectivity.sqm.core.SQMConnectionFactory.createConnection(SQMConnectionFactory.java:45)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionFactory.createConnection(ConnectionFactory.java:59)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryAdapterProvider.createConnection(ConnectionFactoryAdapterProvider.java:114)
+	at org.eclipse.datatools.connectivity.internal.ManagedConnection.createConnection(ManagedConnection.java:163)
+	at org.eclipse.datatools.connectivity.internal.CreateConnectionJob.run(CreateConnectionJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:375)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:678)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:238)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1054)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:308)
+	... 20 more
+Caused by: java.net.UnknownHostException: server
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:171)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:353)
+	... 25 more
+
+!ENTRY org.eclipse.datatools.connectivity 4 -1 2019-07-08 16:27:13.232
+!MESSAGE Could not connect to Oracle Thin.
+!SUBENTRY 1 org.eclipse.datatools.connectivity 2 -1 2019-07-08 16:27:13.232
+!MESSAGE Error creating SQL Model Connection connection to Oracle Thin. (Error: IO 오류: The Network Adapter could not establish the connection)
+!STACK 0
+java.sql.SQLRecoverableException: IO 오류: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:419)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:536)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:228)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:521)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.createConnection(JDBCConnection.java:328)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.internalCreateConnection(DriverConnectionBase.java:105)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.open(DriverConnectionBase.java:54)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.open(JDBCConnection.java:96)
+	at org.eclipse.datatools.enablement.internal.oracle.JDBCOracleConnectionFactory.createConnection(JDBCOracleConnectionFactory.java:27)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryProvider.createConnection(ConnectionFactoryProvider.java:83)
+	at org.eclipse.datatools.connectivity.internal.ConnectionProfile.createConnection(ConnectionProfile.java:359)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionInfoImpl.initializeJDBCConnection(ConnectionInfoImpl.java:705)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionInfoImpl.<init>(ConnectionInfoImpl.java:690)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionFactory.createConnection(ConnectionFactory.java:38)
+	at org.eclipse.datatools.connectivity.sqm.core.SQMConnectionFactory.createConnection(SQMConnectionFactory.java:45)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionFactory.createConnection(ConnectionFactory.java:59)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryAdapterProvider.createConnection(ConnectionFactoryAdapterProvider.java:114)
+	at org.eclipse.datatools.connectivity.internal.ManagedConnection.createConnection(ManagedConnection.java:163)
+	at org.eclipse.datatools.connectivity.internal.CreateConnectionJob.run(CreateConnectionJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:375)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:678)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:238)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1054)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:308)
+	... 20 more
+Caused by: java.net.UnknownHostException: server
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:171)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:353)
+	... 25 more
+!SUBENTRY 1 org.eclipse.datatools.connectivity 2 -1 2019-07-08 16:27:13.233
+!MESSAGE Error creating JDBC Connection connection to Oracle Thin. (Error: IO 오류: The Network Adapter could not establish the connection)
+!STACK 0
+java.sql.SQLRecoverableException: IO 오류: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:419)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:536)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:228)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:521)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.createConnection(JDBCConnection.java:328)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.internalCreateConnection(DriverConnectionBase.java:105)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.open(DriverConnectionBase.java:54)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.open(JDBCConnection.java:96)
+	at org.eclipse.datatools.enablement.internal.oracle.JDBCOracleConnectionFactory.createConnection(JDBCOracleConnectionFactory.java:27)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryProvider.createConnection(ConnectionFactoryProvider.java:83)
+	at org.eclipse.datatools.connectivity.internal.ConnectionProfile.createConnection(ConnectionProfile.java:359)
+	at org.eclipse.datatools.connectivity.internal.ManagedConnection.createConnection(ManagedConnection.java:166)
+	at org.eclipse.datatools.connectivity.internal.CreateConnectionJob.run(CreateConnectionJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:375)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:678)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:238)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1054)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:308)
+	... 14 more
+Caused by: java.net.UnknownHostException: server
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:929)
+	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1324)
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1277)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:171)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:353)
+	... 19 more
+
+!ENTRY org.eclipse.datatools.connectivity 2 -1 2019-07-08 16:27:17.943
+!MESSAGE Error creating JDBC Connection connection to Oracle Thin. (Error: IO 오류: The Network Adapter could not establish the connection)
+!STACK 0
+java.sql.SQLRecoverableException: IO 오류: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:419)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:536)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:228)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:521)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.createConnection(JDBCConnection.java:328)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.internalCreateConnection(DriverConnectionBase.java:105)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.open(DriverConnectionBase.java:54)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.open(JDBCConnection.java:96)
+	at org.eclipse.datatools.enablement.internal.oracle.JDBCOracleConnectionFactory.createConnection(JDBCOracleConnectionFactory.java:27)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryProvider.createConnection(ConnectionFactoryProvider.java:83)
+	at org.eclipse.datatools.connectivity.internal.ConnectionProfile.createConnection(ConnectionProfile.java:359)
+	at org.eclipse.datatools.connectivity.internal.ManagedConnection.createConnection(ManagedConnection.java:166)
+	at org.eclipse.datatools.connectivity.internal.CreateConnectionJob.run(CreateConnectionJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:375)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:678)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:238)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1054)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:308)
+	... 14 more
+Caused by: java.net.UnknownHostException: server
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:171)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:353)
+	... 19 more
+
+!ENTRY org.eclipse.datatools.connectivity 2 -1 2019-07-08 16:27:17.957
+!MESSAGE Error creating SQL Model Connection connection to Oracle Thin. (Error: IO 오류: The Network Adapter could not establish the connection)
+!STACK 0
+java.sql.SQLRecoverableException: IO 오류: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:419)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:536)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:228)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:521)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.createConnection(JDBCConnection.java:328)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.internalCreateConnection(DriverConnectionBase.java:105)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.open(DriverConnectionBase.java:54)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.open(JDBCConnection.java:96)
+	at org.eclipse.datatools.enablement.internal.oracle.JDBCOracleConnectionFactory.createConnection(JDBCOracleConnectionFactory.java:27)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryProvider.createConnection(ConnectionFactoryProvider.java:83)
+	at org.eclipse.datatools.connectivity.internal.ConnectionProfile.createConnection(ConnectionProfile.java:359)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionInfoImpl.initializeJDBCConnection(ConnectionInfoImpl.java:705)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionInfoImpl.<init>(ConnectionInfoImpl.java:690)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionFactory.createConnection(ConnectionFactory.java:38)
+	at org.eclipse.datatools.connectivity.sqm.core.SQMConnectionFactory.createConnection(SQMConnectionFactory.java:45)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionFactory.createConnection(ConnectionFactory.java:59)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryAdapterProvider.createConnection(ConnectionFactoryAdapterProvider.java:114)
+	at org.eclipse.datatools.connectivity.internal.ManagedConnection.createConnection(ManagedConnection.java:163)
+	at org.eclipse.datatools.connectivity.internal.CreateConnectionJob.run(CreateConnectionJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:375)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:678)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:238)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1054)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:308)
+	... 20 more
+Caused by: java.net.UnknownHostException: server
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:171)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:353)
+	... 25 more
+
+!ENTRY org.eclipse.datatools.connectivity 4 -1 2019-07-08 16:27:18.167
+!MESSAGE Could not connect to Oracle Thin.
+!SUBENTRY 1 org.eclipse.datatools.connectivity 2 -1 2019-07-08 16:27:18.167
+!MESSAGE Error creating SQL Model Connection connection to Oracle Thin. (Error: IO 오류: The Network Adapter could not establish the connection)
+!STACK 0
+java.sql.SQLRecoverableException: IO 오류: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:419)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:536)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:228)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:521)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.createConnection(JDBCConnection.java:328)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.internalCreateConnection(DriverConnectionBase.java:105)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.open(DriverConnectionBase.java:54)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.open(JDBCConnection.java:96)
+	at org.eclipse.datatools.enablement.internal.oracle.JDBCOracleConnectionFactory.createConnection(JDBCOracleConnectionFactory.java:27)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryProvider.createConnection(ConnectionFactoryProvider.java:83)
+	at org.eclipse.datatools.connectivity.internal.ConnectionProfile.createConnection(ConnectionProfile.java:359)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionInfoImpl.initializeJDBCConnection(ConnectionInfoImpl.java:705)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionInfoImpl.<init>(ConnectionInfoImpl.java:690)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionFactory.createConnection(ConnectionFactory.java:38)
+	at org.eclipse.datatools.connectivity.sqm.core.SQMConnectionFactory.createConnection(SQMConnectionFactory.java:45)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionFactory.createConnection(ConnectionFactory.java:59)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryAdapterProvider.createConnection(ConnectionFactoryAdapterProvider.java:114)
+	at org.eclipse.datatools.connectivity.internal.ManagedConnection.createConnection(ManagedConnection.java:163)
+	at org.eclipse.datatools.connectivity.internal.CreateConnectionJob.run(CreateConnectionJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:375)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:678)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:238)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1054)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:308)
+	... 20 more
+Caused by: java.net.UnknownHostException: server
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:171)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:353)
+	... 25 more
+!SUBENTRY 1 org.eclipse.datatools.connectivity 2 -1 2019-07-08 16:27:18.167
+!MESSAGE Error creating JDBC Connection connection to Oracle Thin. (Error: IO 오류: The Network Adapter could not establish the connection)
+!STACK 0
+java.sql.SQLRecoverableException: IO 오류: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:419)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:536)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:228)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:521)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.createConnection(JDBCConnection.java:328)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.internalCreateConnection(DriverConnectionBase.java:105)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.open(DriverConnectionBase.java:54)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.open(JDBCConnection.java:96)
+	at org.eclipse.datatools.enablement.internal.oracle.JDBCOracleConnectionFactory.createConnection(JDBCOracleConnectionFactory.java:27)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryProvider.createConnection(ConnectionFactoryProvider.java:83)
+	at org.eclipse.datatools.connectivity.internal.ConnectionProfile.createConnection(ConnectionProfile.java:359)
+	at org.eclipse.datatools.connectivity.internal.ManagedConnection.createConnection(ManagedConnection.java:166)
+	at org.eclipse.datatools.connectivity.internal.CreateConnectionJob.run(CreateConnectionJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:375)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:678)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:238)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1054)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:308)
+	... 14 more
+Caused by: java.net.UnknownHostException: server
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:171)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:353)
+	... 19 more
+
+!ENTRY org.eclipse.datatools.connectivity 2 -1 2019-07-08 16:28:56.630
+!MESSAGE Error creating JDBC Connection connection to Oracle Thin. (Error: IO 오류: The Network Adapter could not establish the connection)
+!STACK 0
+java.sql.SQLRecoverableException: IO 오류: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:419)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:536)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:228)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:521)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.createConnection(JDBCConnection.java:328)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.internalCreateConnection(DriverConnectionBase.java:105)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.open(DriverConnectionBase.java:54)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.open(JDBCConnection.java:96)
+	at org.eclipse.datatools.enablement.internal.oracle.JDBCOracleConnectionFactory.createConnection(JDBCOracleConnectionFactory.java:27)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryProvider.createConnection(ConnectionFactoryProvider.java:83)
+	at org.eclipse.datatools.connectivity.internal.ConnectionProfile.createConnection(ConnectionProfile.java:359)
+	at org.eclipse.datatools.connectivity.internal.ManagedConnection.createConnection(ManagedConnection.java:166)
+	at org.eclipse.datatools.connectivity.internal.CreateConnectionJob.run(CreateConnectionJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:375)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:678)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:238)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1054)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:308)
+	... 14 more
+Caused by: java.net.UnknownHostException: server
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:171)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:353)
+	... 19 more
+
+!ENTRY org.eclipse.datatools.connectivity 2 -1 2019-07-08 16:28:56.641
+!MESSAGE Error creating SQL Model Connection connection to Oracle Thin. (Error: IO 오류: The Network Adapter could not establish the connection)
+!STACK 0
+java.sql.SQLRecoverableException: IO 오류: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:419)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:536)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:228)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:521)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.createConnection(JDBCConnection.java:328)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.internalCreateConnection(DriverConnectionBase.java:105)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.open(DriverConnectionBase.java:54)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.open(JDBCConnection.java:96)
+	at org.eclipse.datatools.enablement.internal.oracle.JDBCOracleConnectionFactory.createConnection(JDBCOracleConnectionFactory.java:27)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryProvider.createConnection(ConnectionFactoryProvider.java:83)
+	at org.eclipse.datatools.connectivity.internal.ConnectionProfile.createConnection(ConnectionProfile.java:359)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionInfoImpl.initializeJDBCConnection(ConnectionInfoImpl.java:705)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionInfoImpl.<init>(ConnectionInfoImpl.java:690)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionFactory.createConnection(ConnectionFactory.java:38)
+	at org.eclipse.datatools.connectivity.sqm.core.SQMConnectionFactory.createConnection(SQMConnectionFactory.java:45)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionFactory.createConnection(ConnectionFactory.java:59)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryAdapterProvider.createConnection(ConnectionFactoryAdapterProvider.java:114)
+	at org.eclipse.datatools.connectivity.internal.ManagedConnection.createConnection(ManagedConnection.java:163)
+	at org.eclipse.datatools.connectivity.internal.CreateConnectionJob.run(CreateConnectionJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:375)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:678)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:238)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1054)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:308)
+	... 20 more
+Caused by: java.net.UnknownHostException: server
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:929)
+	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1324)
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1277)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:171)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:353)
+	... 25 more
+
+!ENTRY org.eclipse.datatools.connectivity 2 -1 2019-07-08 16:28:56.707
+!MESSAGE Error creating JDBC Connection connection to Oracle Thin. (Error: IO 오류: The Network Adapter could not establish the connection)
+!STACK 0
+java.sql.SQLRecoverableException: IO 오류: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:419)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:536)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:228)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:521)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.createConnection(JDBCConnection.java:328)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.internalCreateConnection(DriverConnectionBase.java:105)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.open(DriverConnectionBase.java:54)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.open(JDBCConnection.java:96)
+	at org.eclipse.datatools.enablement.internal.oracle.JDBCOracleConnectionFactory.createConnection(JDBCOracleConnectionFactory.java:27)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryProvider.createConnection(ConnectionFactoryProvider.java:83)
+	at org.eclipse.datatools.connectivity.internal.ConnectionProfile.createConnection(ConnectionProfile.java:359)
+	at org.eclipse.datatools.connectivity.internal.ManagedConnection.createConnection(ManagedConnection.java:166)
+	at org.eclipse.datatools.connectivity.internal.CreateConnectionJob.run(CreateConnectionJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:375)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:678)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:238)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1054)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:308)
+	... 14 more
+Caused by: java.net.UnknownHostException: server
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:171)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:353)
+	... 19 more
+
+!ENTRY org.eclipse.datatools.connectivity 2 -1 2019-07-08 16:28:56.722
+!MESSAGE Error creating SQL Model Connection connection to Oracle Thin. (Error: IO 오류: The Network Adapter could not establish the connection)
+!STACK 0
+java.sql.SQLRecoverableException: IO 오류: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:419)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:536)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:228)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:521)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.createConnection(JDBCConnection.java:328)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.internalCreateConnection(DriverConnectionBase.java:105)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.open(DriverConnectionBase.java:54)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.open(JDBCConnection.java:96)
+	at org.eclipse.datatools.enablement.internal.oracle.JDBCOracleConnectionFactory.createConnection(JDBCOracleConnectionFactory.java:27)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryProvider.createConnection(ConnectionFactoryProvider.java:83)
+	at org.eclipse.datatools.connectivity.internal.ConnectionProfile.createConnection(ConnectionProfile.java:359)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionInfoImpl.initializeJDBCConnection(ConnectionInfoImpl.java:705)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionInfoImpl.<init>(ConnectionInfoImpl.java:690)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionFactory.createConnection(ConnectionFactory.java:38)
+	at org.eclipse.datatools.connectivity.sqm.core.SQMConnectionFactory.createConnection(SQMConnectionFactory.java:45)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionFactory.createConnection(ConnectionFactory.java:59)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryAdapterProvider.createConnection(ConnectionFactoryAdapterProvider.java:114)
+	at org.eclipse.datatools.connectivity.internal.ManagedConnection.createConnection(ManagedConnection.java:163)
+	at org.eclipse.datatools.connectivity.internal.CreateConnectionJob.run(CreateConnectionJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:375)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:678)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:238)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1054)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:308)
+	... 20 more
+Caused by: java.net.UnknownHostException: server
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:171)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:353)
+	... 25 more
+
+!ENTRY org.eclipse.datatools.connectivity 4 -1 2019-07-08 16:28:56.800
+!MESSAGE Could not connect to Oracle Thin.
+!SUBENTRY 1 org.eclipse.datatools.connectivity 2 -1 2019-07-08 16:28:56.800
+!MESSAGE Error creating SQL Model Connection connection to Oracle Thin. (Error: IO 오류: The Network Adapter could not establish the connection)
+!STACK 0
+java.sql.SQLRecoverableException: IO 오류: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:419)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:536)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:228)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:521)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.createConnection(JDBCConnection.java:328)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.internalCreateConnection(DriverConnectionBase.java:105)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.open(DriverConnectionBase.java:54)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.open(JDBCConnection.java:96)
+	at org.eclipse.datatools.enablement.internal.oracle.JDBCOracleConnectionFactory.createConnection(JDBCOracleConnectionFactory.java:27)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryProvider.createConnection(ConnectionFactoryProvider.java:83)
+	at org.eclipse.datatools.connectivity.internal.ConnectionProfile.createConnection(ConnectionProfile.java:359)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionInfoImpl.initializeJDBCConnection(ConnectionInfoImpl.java:705)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionInfoImpl.<init>(ConnectionInfoImpl.java:690)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionFactory.createConnection(ConnectionFactory.java:38)
+	at org.eclipse.datatools.connectivity.sqm.core.SQMConnectionFactory.createConnection(SQMConnectionFactory.java:45)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionFactory.createConnection(ConnectionFactory.java:59)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryAdapterProvider.createConnection(ConnectionFactoryAdapterProvider.java:114)
+	at org.eclipse.datatools.connectivity.internal.ManagedConnection.createConnection(ManagedConnection.java:163)
+	at org.eclipse.datatools.connectivity.internal.CreateConnectionJob.run(CreateConnectionJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:375)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:678)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:238)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1054)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:308)
+	... 20 more
+Caused by: java.net.UnknownHostException: server
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:929)
+	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1324)
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1277)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:171)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:353)
+	... 25 more
+!SUBENTRY 1 org.eclipse.datatools.connectivity 2 -1 2019-07-08 16:28:56.800
+!MESSAGE Error creating JDBC Connection connection to Oracle Thin. (Error: IO 오류: The Network Adapter could not establish the connection)
+!STACK 0
+java.sql.SQLRecoverableException: IO 오류: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:419)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:536)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:228)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:521)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.createConnection(JDBCConnection.java:328)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.internalCreateConnection(DriverConnectionBase.java:105)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.open(DriverConnectionBase.java:54)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.open(JDBCConnection.java:96)
+	at org.eclipse.datatools.enablement.internal.oracle.JDBCOracleConnectionFactory.createConnection(JDBCOracleConnectionFactory.java:27)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryProvider.createConnection(ConnectionFactoryProvider.java:83)
+	at org.eclipse.datatools.connectivity.internal.ConnectionProfile.createConnection(ConnectionProfile.java:359)
+	at org.eclipse.datatools.connectivity.internal.ManagedConnection.createConnection(ManagedConnection.java:166)
+	at org.eclipse.datatools.connectivity.internal.CreateConnectionJob.run(CreateConnectionJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:375)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:678)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:238)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1054)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:308)
+	... 14 more
+Caused by: java.net.UnknownHostException: server
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:171)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:353)
+	... 19 more
+
+!ENTRY org.eclipse.datatools.connectivity 4 -1 2019-07-08 16:28:56.949
+!MESSAGE Could not connect to Oracle Thin.
+!SUBENTRY 1 org.eclipse.datatools.connectivity 2 -1 2019-07-08 16:28:56.949
+!MESSAGE Error creating SQL Model Connection connection to Oracle Thin. (Error: IO 오류: The Network Adapter could not establish the connection)
+!STACK 0
+java.sql.SQLRecoverableException: IO 오류: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:419)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:536)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:228)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:521)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.createConnection(JDBCConnection.java:328)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.internalCreateConnection(DriverConnectionBase.java:105)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.open(DriverConnectionBase.java:54)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.open(JDBCConnection.java:96)
+	at org.eclipse.datatools.enablement.internal.oracle.JDBCOracleConnectionFactory.createConnection(JDBCOracleConnectionFactory.java:27)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryProvider.createConnection(ConnectionFactoryProvider.java:83)
+	at org.eclipse.datatools.connectivity.internal.ConnectionProfile.createConnection(ConnectionProfile.java:359)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionInfoImpl.initializeJDBCConnection(ConnectionInfoImpl.java:705)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionInfoImpl.<init>(ConnectionInfoImpl.java:690)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionFactory.createConnection(ConnectionFactory.java:38)
+	at org.eclipse.datatools.connectivity.sqm.core.SQMConnectionFactory.createConnection(SQMConnectionFactory.java:45)
+	at org.eclipse.datatools.connectivity.sqm.internal.core.connection.ConnectionFactory.createConnection(ConnectionFactory.java:59)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryAdapterProvider.createConnection(ConnectionFactoryAdapterProvider.java:114)
+	at org.eclipse.datatools.connectivity.internal.ManagedConnection.createConnection(ManagedConnection.java:163)
+	at org.eclipse.datatools.connectivity.internal.CreateConnectionJob.run(CreateConnectionJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:375)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:678)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:238)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1054)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:308)
+	... 20 more
+Caused by: java.net.UnknownHostException: server
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:171)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:353)
+	... 25 more
+!SUBENTRY 1 org.eclipse.datatools.connectivity 2 -1 2019-07-08 16:28:56.949
+!MESSAGE Error creating JDBC Connection connection to Oracle Thin. (Error: IO 오류: The Network Adapter could not establish the connection)
+!STACK 0
+java.sql.SQLRecoverableException: IO 오류: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:419)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:536)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:228)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:521)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.createConnection(JDBCConnection.java:328)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.internalCreateConnection(DriverConnectionBase.java:105)
+	at org.eclipse.datatools.connectivity.DriverConnectionBase.open(DriverConnectionBase.java:54)
+	at org.eclipse.datatools.connectivity.drivers.jdbc.JDBCConnection.open(JDBCConnection.java:96)
+	at org.eclipse.datatools.enablement.internal.oracle.JDBCOracleConnectionFactory.createConnection(JDBCOracleConnectionFactory.java:27)
+	at org.eclipse.datatools.connectivity.internal.ConnectionFactoryProvider.createConnection(ConnectionFactoryProvider.java:83)
+	at org.eclipse.datatools.connectivity.internal.ConnectionProfile.createConnection(ConnectionProfile.java:359)
+	at org.eclipse.datatools.connectivity.internal.ManagedConnection.createConnection(ManagedConnection.java:166)
+	at org.eclipse.datatools.connectivity.internal.CreateConnectionJob.run(CreateConnectionJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:375)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:678)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:238)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1054)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:308)
+	... 14 more
+Caused by: java.net.UnknownHostException: server
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:171)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:353)
+	... 19 more
+
+!ENTRY net.sf.eclipse.tomcat 4 4 2019-07-08 17:14:41.724
+!MESSAGE Runtime classpath after adding projects: []
+
+
+!ENTRY net.sf.eclipse.tomcat 4 4 2019-07-08 17:20:29.090
+!MESSAGE Runtime classpath after adding projects: []
+
+
+!ENTRY net.sf.eclipse.tomcat 4 4 2019-07-08 17:20:34.142
+!MESSAGE Runtime classpath after adding projects: []
+
+
+!ENTRY net.sf.eclipse.tomcat 4 4 2019-07-08 17:22:00.711
+!MESSAGE Runtime classpath after adding projects: []
+
+
+!ENTRY net.sf.eclipse.tomcat 4 4 2019-07-08 17:22:05.769
+!MESSAGE Runtime classpath after adding projects: []
+
+
+!ENTRY net.sf.eclipse.tomcat 4 4 2019-07-08 17:22:47.179
+!MESSAGE Runtime classpath after adding projects: []
+
+
+!ENTRY net.sf.eclipse.tomcat 4 4 2019-07-08 17:25:06.311
+!MESSAGE Runtime classpath after adding projects: []
+

@@ -1,0 +1,9 @@
+computeSourcePath=true
+contextsDir=C\:\\apache-tomcat-8.5.42\\conf\\Catalina\\localhost
+eclipse.preferences.version=1
+tomcatBase=C\:\\apache-tomcat-8.5.42
+tomcatConfigFile=C\:\\apache-tomcat-8.5.42\\conf\\server.xml
+tomcatDebugMode=true
+tomcatDir=C\:\\apache-tomcat-8.5.42
+tomcatJRE=1562546906841
+tomcatVersion=tomcatV8
